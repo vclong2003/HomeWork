@@ -1,0 +1,10 @@
+td,tr {
+    border: 2px solid black;
+  }
+table {
+    width: 100%;
+}
+input {
+    width: 99%;
+    border: none;
+}
