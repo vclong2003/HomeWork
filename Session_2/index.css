@@ -1,0 +1,40 @@
+.container {
+    margin-top: 2%;
+    padding: 1%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: orange;
+    font-size: 140%;
+    background-color: black;
+
+}
+
+.questionContainer {
+    width: 100%;
+    padding-bottom: 1%;
+    display: flex;
+    border-bottom: 2px solid orange;
+    font-weight: bold;
+}
+
+button {
+    margin-left: auto;
+    font-size: 100%;
+    border-radius: 5px;
+    border: none;
+    background-color: orange;
+    color: black;
+    padding: 0.3%;
+    float: right;
+}
+
+.answer {
+    padding-top: 1.5%;
+    margin-right: auto;
+}
